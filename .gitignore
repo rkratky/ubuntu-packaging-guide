@@ -4,3 +4,7 @@ po/*
 !po/*.po
 translators.html
 docs/.sphinx/venv
+docs/.sphinx/warnings.txt
+docs/.sphinx/.wordlist.dic
+docs/.sphinx/.doctrees/
+
